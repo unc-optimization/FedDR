@@ -6,7 +6,6 @@ This package is the implementation of FedDR algorithm and its variants along wit
 
 The synchronous algorithm is built upon [FedProx](https://github.com/litian96/FedProx) and the asynchronous one is from [distbelief](https://github.com/ucla-labx/distbelief).
 
-
 ## Code Usage
 
 We hope that this program will be useful to others, and we would like to hear about your experience with it. If you find it helpful, please consider citing the following publication:
@@ -14,10 +13,6 @@ We hope that this program will be useful to others, and we would like to hear ab
 * Q. Tran-Dinh, N. H. Pham, D. T. Phan, and L. M. Nguyen. **[FedDR -- Randomized Douglas-Rachford Splitting Algorithms for Nonconvex Federated Composite Optimization](https://arxiv.org/abs/2103.03452)**. <em>Conference on Neural Information Processing Systems</em>, 2021.
 
 Feel free to send feedback and questions about the package to our maintainer Nhan H. Pham at <nhanph@live.unc.edu>.
-
-Implementation of *asyncFedDR* an asynchronous variant of Federated Douglas Rachford algorithm.
-
-This package is built upon [distbelief](https://github.com/ucla-labx/distbelief).
 
 ## How to run
 
