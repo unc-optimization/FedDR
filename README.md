@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This package is the implementation of AsyncFedDR algorithm, an asynchronous variant of FedDR.
+This package is the implementation of FedDR algorithm and its variants along with other federated learning algorithms including FedAvg, FedProx, and FedPD.
 
-This package is built upon [distbelief](https://github.com/ucla-labx/distbelief).
+The synchronous algorithm is built upon [FedProx](https://github.com/litian96/FedProx) and the asynchronous one is from [distbelief](https://github.com/ucla-labx/distbelief).
 
 
 ## Code Usage
