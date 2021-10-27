@@ -1,0 +1,9 @@
+data
+__pycache__/
+.pyc*
+env/
+venv/
+.idea/
+.ipynb_checkpoints/*
+log/*
+asyncfeddr.egg-info/*
