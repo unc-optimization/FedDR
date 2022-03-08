@@ -9,7 +9,7 @@ from flearn.utils.model_utils import read_data
 # GLOBAL PARAMETERS
 OPTIMIZERS = ['fedavg', 'fedprox', 'feddr', 'fedpd']
 DATASETS = ['FEMNIST', 'synthetic_iid', 'synthetic_0_0', 'synthetic_0.5_0.5', 'synthetic_1_1']
-REG_TYPE = ['none','l1_norm','l2_norm_squared','linf_norm']
+REG_TYPE = ['none','l1_norm','l2_norm_squared','l2_norm','linf_norm']
 
 MODEL_PARAMS = {
     'FEMNIST.ann': (26,),  # num_classes
